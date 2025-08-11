@@ -8,7 +8,7 @@ import { Lightbulb, Send } from 'lucide-react';
 import { useFinancial } from '@/context/FinancialContext';
 import { toast } from 'sonner';
 
-const API_KEY = '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';
+const API_KEY = 'Your-open-router-api-key';
 
 type Message = {
   id: string;
